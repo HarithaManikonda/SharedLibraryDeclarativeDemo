@@ -32,7 +32,9 @@ pipeline {
         stage('Deploy') {
             steps {
                 echo 'Deploying through Shared library ....'
+                script {
                  welcome.call("Haritha")
+                    }
             }
         }
     }
