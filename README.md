@@ -1,14 +1,17 @@
 # SharedLibraryDeclarativeDemo
 
-Create github project to host shared libraries.
+## Create github project to host shared libraries.
 
-Shared library repo should have the following folder structure.
+  Shared library repo should have the following folder structure.
 
-```
-jenkins-shared-library
-|____vars
-|____src
-|____resources
-```
-Create groovry file under vars
+    ```
+    jenkins-shared-library
+    |____vars
+    |____src
+    |____resources
+    ```
+    Create groovry file under vars
+## Create jenkins job.
+
+## Invoke shared library from jenkins pipeline.
 
