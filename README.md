@@ -12,6 +12,9 @@
     |____resources
     ```
     Create groovry file under vars
+## Define global pipeline libraries in jenkins
+![Screen Shot 2021-09-07 at 12 20 57 AM](https://user-images.githubusercontent.com/87215340/132301868-87e691e6-84b0-410e-9f8a-aef7221f16b4.png)
+
 ## Create jenkins job.
 ![Screen Shot 2021-09-07 at 12 18 22 AM](https://user-images.githubusercontent.com/87215340/132301566-8b1e21d6-035e-4a69-9268-317c0765ed86.png)
 
