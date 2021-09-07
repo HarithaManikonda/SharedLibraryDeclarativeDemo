@@ -31,7 +31,8 @@ pipeline {
         }
         stage('Deploy') {
             steps {
-                echo 'Deploying....'
+                echo 'Deploying through Shared library ....'
+                 welcome("Haritha")
             }
         }
     }
